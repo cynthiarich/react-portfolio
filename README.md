@@ -1,2 +1,2 @@
 # react-portfolio
-Creating a portfolio with react and bulma
+Creating a portfolio with react
